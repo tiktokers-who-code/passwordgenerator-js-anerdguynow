@@ -1,0 +1,10 @@
+{
+  "name": "passwordgenerator-js-anerdguynow",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "go": "node ./app.js -l -u -d -s"
+  },
+  "author": "https://www.tiktok.com/@anerdguynow"
+}
